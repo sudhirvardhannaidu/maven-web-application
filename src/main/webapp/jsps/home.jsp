@@ -9,7 +9,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Devops Tomcat deploy.</h1>
-<h1 align="center">  Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">  Assitance in Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -25,16 +25,13 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 </h1>
 <hr>
 <div style="text-align: center;">
-	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
-	</span>
+	
 	<span style="font-weight: bold;">
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
 		Bangalore,
 		+91-9743500434
 		sudhirvardhan205@gmail.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Technologies</a>
+		<a href="mailto:devopstrainingblr@gmail.com">Mail to sudhirvardhan205@gmail.com for all DevOps and AWS Queries </a>
 	</span>
 </div>
 <hr>

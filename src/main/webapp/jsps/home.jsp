@@ -7,7 +7,7 @@
 <title>Technologies- Home Page</title>
 </head>
 </head>
-<body>
+<body style="background-color:powderorange;">
 <h1 align="center">Welcome to Devops Tomcat deploy.</h1>
 <h1 align="center">  Assitance in Job Support also...Teaching Real Time scnerios</h1>
 <hr>
